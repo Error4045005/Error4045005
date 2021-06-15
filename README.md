@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Error4045005
-- 👀 I’m interested in programming, math, physics, games :D
+- 👀 I’m interested in programming, math, physics, and games :D
 - 🌱 I’m currently learning java, competitive programming
 
 <!---
